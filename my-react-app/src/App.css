@@ -1,0 +1,112 @@
+/* App.css */
+.app {
+  font-family: Arial, sans-serif;
+
+}
+
+.dashboard {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.dashboard h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.assignment {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.assignment p {
+  margin: 5px 0;
+}
+
+.candidate-profile {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+}
+
+.candidate-profile h3 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #5cb85c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #4cae4c;
+}
+/* App.css */
+.app {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  display: flex;
+   
+    justify-content: space-between;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 10px;
+  background-color: #f0f0f0;
+
+}
+
+.app-icon {
+  margin-right: 10px;
+}
+
+.app-main {
+  padding: 20px;
+}
+
+.dashboard {
+  align-items: left;
+}
+
+.new-assignment {
+  background-color: #00ffcc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.add-button {
+  background-color: #fff;
+  border: none;
+  padding: 5px 10px;
+  margin-right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.create-btn {
+  background-color: #008f68;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
